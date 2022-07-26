@@ -13,7 +13,7 @@ Windows need:
 Clone the repository:
 
 ```bash
-git clone https://github.com/PYGC/mm32_gcc_demo.git --recursive
+git clone https://github.com/iclite/mm32_gcc_demo.git --recursive
 ```
 
 Change directory:
@@ -39,5 +39,5 @@ make clean
 ## Git Submodule
 
 - [ARM-software/CMSIS_5](https://github.com/ARM-software/CMSIS_5)
-- [PYGC/mm32_startup](https://github.com/PYGC/mm32_startup)
-- [PYGC/mm32_ld](https://github.com/PYGC/mm32_ld)
+- [iclite/mm32_startup](https://github.com/iclite/mm32_startup)
+- [iclite/mm32_ld](https://github.com/iclite/mm32_ld)
